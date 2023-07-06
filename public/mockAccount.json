@@ -1,0 +1,27 @@
+{
+    "id": "1",
+    "account": {
+        "id": "1",
+        "createdOn": "2022-05-04T00:00:00Z",
+        "userInformation": {
+            "lastName": "Schmidt",
+            "firstName": "Jan",
+            "birthday": "1990-04-04T00:00:00.000Z",
+            "gender": "Female",
+            "height": 180,
+            "weight": 59.4
+        },
+        "reports": {
+            "id": "U-423001",
+            "createdOn": "2022-10-22T21:10:00Z",
+            "notes": "In Ihrer Situation ist es wichtig und richtig in regelmässigem Kontakt mit Ihrem betreuenden Arzt zu sein, um die laufenden Therapien optimal an Ihren Lebensstil anzupassen. Speziell ein optimal eingestellter Langzeitzuckerwert als auch ein unauffälliges Lipidprofil sind essentiell um das Beste für die eigene Gesundheit zu tun. Regelmässig Sport und eine abwechslungsreiche eher kohlenhydratarme ballaststoffreiche Ernährung sind zu empfehlen.",
+            "doctor": {
+                "lastName": "Hauer",
+                "firstName": "David",
+                "signature": "/signature.svg",
+                "profilePicture": "/doctor-profile-picture.png",
+                "speciality": "General Practicioner"
+            }
+        }
+    }
+}
